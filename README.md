@@ -6,7 +6,10 @@ Actually some of them are just some scripting files in some specific softwares, 
 But also some great languages like kotlin, and DSLs like gradle, markdown, etc.<br/>
 Hope this will help you. :smile:
 
+Contribution is always welcomed.<br/>
 Just find what you want in the corresponding named files.
+
+(Actually while wrriting this file, I am using the `markdown` language support)
 
 ## I support
 
@@ -18,8 +21,11 @@ Just find what you want in the corresponding named files.
 
 + [X] Gradle .gradle
 + [X] Markdown .md
++ [X] Makefile (no strict format)
++ [X] Solution .sln
 
 ### Scripting files for :
 
 + [X] Emacs .info
-+ [X] Dev C++ .lng .tips
++ [X] Dev C++ .lng .tips .map
++ [X] InelliJ IDEA .number .policy
