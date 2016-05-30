@@ -23,33 +23,36 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 
 ### Languages
 
-+ [X] Kotlin 
++ [X] Kotlin
 > [.kt](./languages/kt.xml)
 
 ### DSLs
 
-+ [X] Gradle 
++ [X] Gradle
 > [.gradle](./DSLs/gradle.xml)
 
-+ [X] Markdown 
++ [X] Markdown
 > [.md](./DSLs/md.xml)
 
-+ [X] Makefile 
++ [X] Makefile
 > (no strict format)
 
-+ [X] Solution 
++ [X] Solution
 > [.sln](./DSLs/sln.xml)
+
++ [X] Git
+> [.gitignore](./DSLs/gitignore.xml)
 
 ### Scripting files for :
 
-+ [X] Emacs 
++ [X] Emacs
 > [.info](./scripting/emacs/info.xml)
 
-+ [X] Dev C++ 
++ [X] Dev C++
 > [.lng](./scripting/devcpp/lng.xml) <br/>
 [.tips](./scripting/devcpp/tips.xml) <br/>
 [.map](./scripting/devcpp/map.xml)
 
-+ [X] InelliJ IDEA 
++ [X] InelliJ IDEA
 > [.number](./scripting/intellij/number.xml) <br/>
 [.policy](./scripting/intellij/policy.xml)
