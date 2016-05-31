@@ -24,6 +24,7 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 ### Languages
 
 + [X] Kotlin
+
 > [.kt](./languages/kt.xml)
 
 ### DSLs
