@@ -1,7 +1,9 @@
-git.exe stage *
+@echo off
 
-git.exe commit -m "commit with a cmd script."
+git stage *
+git commit * -m "commit via a script"
+git push origin master
 
-git.exe push --progress "origin" master:master
+echo hia hia I`ve finished
 
 pause

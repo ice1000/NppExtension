@@ -1,3 +1,5 @@
-git.exe pull --progress --no-rebase -v "origin"
+@echo off
+
+git pull origin master
 
 pause
