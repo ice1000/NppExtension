@@ -44,6 +44,9 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 + [X] Git
 > [.gitignore](./DSLs/gitignore.xml)
 
++ [X] My own backend DSL
+> [.txt](./DSLs/txt.xml)
+
 ### Scripting files for :
 
 + [X] Emacs
