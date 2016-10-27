@@ -26,6 +26,7 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 + [X] Kotlin
 
 > [.kt](./languages/kt.xml)
+> [.scala](./languages/scala.xml)
 
 ### DSLs
 
@@ -36,7 +37,7 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 > [.md](./DSLs/md.xml)
 
 + [X] Makefile
-> (no strict format)
+> [no strict format](./DSLs/make.xml)
 
 + [X] Solution
 > [.sln](./DSLs/sln.xml)
