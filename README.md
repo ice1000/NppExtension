@@ -23,11 +23,16 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 
 ### Languages
 
+Notice: Highlighting of these languages are just like what they are in IntelliJ IDEA.
+
 + [X] Kotlin
 > [.kt](./languages/kt.xml)
 
 + [X] Scala
 > [.scala](./languages/scala.xml)
+
++ [X] Rust
+> [.rs](./languages/rs.xml)
 
 ### DSLs
 
@@ -59,6 +64,6 @@ And restart Notepad++, then enjoy the special highlighting! :smile:
 [.tips](./scripting/devcpp/tips.xml) <br/>
 [.map](./scripting/devcpp/map.xml)
 
-+ [X] InelliJ IDEA
++ [X] IntelliJ IDEA
 > [.number](./scripting/intellij/number.xml) <br/>
 [.policy](./scripting/intellij/policy.xml)
