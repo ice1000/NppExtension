@@ -21,9 +21,9 @@
             <Keywords name="Folders in code2, open"></Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
             <Keywords name="Folders in code2, close"></Keywords>
-            <Keywords name="Folders in comment, open">{</Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
-            <Keywords name="Folders in comment, close">}</Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">package&#x000D;&#x000A;import&#x000D;&#x000A;class&#x000D;&#x000A;object&#x000D;&#x000A;trait&#x000D;&#x000A;extends&#x000D;&#x000A;with&#x000D;&#x000A;type&#x000D;&#x000A;forSome&#x000D;&#x000A;private&#x000D;&#x000A;protected&#x000D;&#x000A;abstract&#x000D;&#x000A;sealed&#x000D;&#x000A;final&#x000D;&#x000A;implicit&#x000D;&#x000A;lazy&#x000D;&#x000A;override&#x000D;&#x000A;try&#x000D;&#x000A;catch&#x000D;&#x000A;finally&#x000D;&#x000A;throw&#x000D;&#x000A;if&#x000D;&#x000A;else&#x000D;&#x000A;match&#x000D;&#x000A;case&#x000D;&#x000A;do&#x000D;&#x000A;while&#x000D;&#x000A;for&#x000D;&#x000A;return&#x000D;&#x000A;yield&#x000D;&#x000A;def&#x000D;&#x000A;val&#x000D;&#x000A;var&#x000D;&#x000A;this&#x000D;&#x000A;super&#x000D;&#x000A;new&#x000D;&#x000A;true&#x000D;&#x000A;false&#x000D;&#x000A;null</Keywords>
             <Keywords name="Keywords2">Int&#x000D;&#x000A;Long&#x000D;&#x000A;Double&#x000D;&#x000A;Foat&#x000D;&#x000A;String&#x000D;&#x000A;Unit&#x000D;&#x000A;???&#x000D;&#x000A;Nothing&#x000D;&#x000A;Array&#x000D;&#x000A;Traversable&#x000D;&#x000A;List&#x000D;&#x000A;Map&#x000D;&#x000A;Set</Keywords>
             <Keywords name="Keywords3">main&#x000D;&#x000A;println</Keywords>
@@ -38,7 +38,6 @@
             <WordsStyle name="DEFAULT" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="COMMENTS" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="808080" bgColor="2B2B2B" fontName="" fontStyle="2" nesting="0" />
-            <WordsStyle name="NUMBERS" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="6897BB" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="B5B6E3" bgColor="2B2B2B" fontName="" fontStyle="1" nesting="0" />
