@@ -29,10 +29,10 @@
             <Keywords name="Keywords3">@param&#x000D;&#x000A;@author&#x000D;&#x000A;@return&#x000D;&#x000A;@see&#x000D;&#x000A;@example&#x000D;&#x000A;@link&#x000D;&#x000A;@version&#x000D;&#x000A;@since</Keywords>
             <Keywords name="Keywords4">println&#x000D;&#x000A;listOf&#x000D;&#x000A;mutableListOf&#x000D;&#x000A;mapOf&#x000D;&#x000A;mutableMapOf&#x000D;&#x000A;main&#x000D;&#x000A;foreach&#x000D;&#x000A;printStackTrace&#x000D;&#x000A;toInt&#x000D;&#x000A;toString&#x000D;&#x000A;toLong&#x000D;&#x000A;toFloat&#x000D;&#x000A;toDouble&#x000D;&#x000A;equals&#x000D;&#x000A;hashCode</Keywords>
             <Keywords name="Keywords5">$</Keywords>
-            <Keywords name="Keywords6">break@&#x000D;&#x000A;continue@&#x000D;&#x000A;this@&#x000D;&#x000A;return@&#x000D;&#x000A;@</Keywords>
-            <Keywords name="Keywords7">TODO&#x000D;&#x000A;FIXME&#x000D;&#x000A;todo&#x000D;&#x000A;fixme&#x000D;&#x000A;ToDo&#x000D;&#x000A;tOdO&#x000D;&#x000A;Todo&#x000D;&#x000A;toDo&#x000D;&#x000A;tOdo&#x000D;&#x000A;todO&#x000D;&#x000A;FixMe&#x000D;&#x000A;fixme&#x000D;&#x000A;fIXmE</Keywords>
+            <Keywords name="Keywords6">break@&#x000D;&#x000A;continue@&#x000D;&#x000A;this@&#x000D;&#x000A;return@</Keywords>
+            <Keywords name="Keywords7">TODO&#x000D;&#x000A;FIXME&#x000D;&#x000A;todo&#x000D;&#x000A;fixme&#x000D;&#x000A;ToDo&#x000D;&#x000A;@&#x000D;&#x000A;tOdO&#x000D;&#x000A;Todo&#x000D;&#x000A;toDo&#x000D;&#x000A;tOdo&#x000D;&#x000A;todO&#x000D;&#x000A;FixMe&#x000D;&#x000A;fixme&#x000D;&#x000A;fIXmE</Keywords>
             <Keywords name="Keywords8">\t&#x000D;&#x000A;\n&#x000D;&#x000A;\b&#x000D;&#x000A;\\&#x000D;&#x000A;\&quot;</Keywords>
-            <Keywords name="Delimiters">00&quot; 01 02&quot; 03&apos; 04 05&apos; 06${ 07 08} 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03&apos; 04 05&apos; 06${ 07 08} 09/** 10 11*/ 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
@@ -45,7 +45,7 @@
             <WordsStyle name="KEYWORDS4" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="FF00FF" bgColor="2B2B2B" fontName="" fontStyle="4" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="0000FF" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS7" fgColor="BBB529" bgColor="2B2B2B" fontName="" fontStyle="6" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="BBB529" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="CC7832" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="OPERATORS" fgColor="A9B7C6" bgColor="2B2B2B" fontName="" fontStyle="1" nesting="0" />
             <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
@@ -54,7 +54,7 @@
             <WordsStyle name="DELIMITERS1" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="24580" />
             <WordsStyle name="DELIMITERS2" fgColor="6A8759" bgColor="2B2B2B" fontName="" fontStyle="6" nesting="0" />
             <WordsStyle name="DELIMITERS3" fgColor="FF00FF" bgColor="2B2B2B" fontName="" fontStyle="4" nesting="67111936" />
-            <WordsStyle name="DELIMITERS4" fgColor="FF00FF" bgColor="2B2B2B" fontName="" fontStyle="2" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="008040" bgColor="2B2B2B" fontName="" fontStyle="3" nesting="256" />
             <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="2B2B2B" fontName="" fontStyle="0" nesting="0" />
