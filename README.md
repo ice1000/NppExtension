@@ -1,6 +1,8 @@
-# Notepad++-syntax is:
+# Notepad++-syntax
 
-Some languages in Notepad++ defined by me.<br/>
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
+
+Some languages' highlight config in Notepad++.<br/>
 Use them in your Notepad++ ! :smile: <br/>
 Actually some of them are just some scripting files in some specific softwares, like devcpp, emacs, IntelliJ, etc.<br/>
 But also some great languages like kotlin, and DSLs like gradle, markdown, etc.<br/>
