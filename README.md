@@ -37,29 +37,17 @@ or follow the steps:
 
 Notice: I'm trying my best to fit IntelliJ IDEA Dracula theme.
 
-+ [X] Kotlin
-> [.kt](./languages/kt.xml)
+## Probably useful
 
-+ [X] Scala
-> [.scala](./languages/scala.xml)
++ [X] [Kotlin.kt](./languages/kt.xml)
++ [X] [Scala.scala](./languages/scala.xml)
++ [X] [Rust.rs](./languages/rs.xml)
++ [X] [Markdown.md](./DSLs/md.xml)
++ [X] [Lice.lice](./languages/lice.xml)
++ [X] [Gradle.gradle](./DSLs/gradle.xml)
 
-+ [X] Rust
-> [.rs](./languages/rs.xml)
+## Probably useless
 
-+ [X] Lice
-> [.lice](./languages/lice.xml)
-
-+ [X] Gradle
-> [.gradle](./DSLs/gradle.xml)
-
-+ [X] Markdown
-> [.md](./DSLs/md.xml)
-
-+ [X] Makefile
-> [no strict format](./DSLs/make.xml)
-
-+ [X] Solution
-> [.sln](./DSLs/sln.xml)
-
-+ [X] My own backend DSL
-> [.txt](./DSLs/txt.xml)
++ [X] [Makefile.make](./DSLs/make.xml)
++ [X] [Solution.sln](./DSLs/sln.xml)
++ [X] [My own backend DSL.txt](./DSLs/txt.xml)
