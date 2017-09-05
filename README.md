@@ -20,6 +20,12 @@ First you should set your background dark.<br/>
 You can either [see this issue](https://github.com/ice1000/NppExtension/issues/2#issuecomment-326457997),
 or follow the steps:
 
++ Open your Notepad++, and select "Settings" on the menu bar, and choose "Style configurator".
++ Select theme "Obsidian" (you can choose other dark themes)
++ Go to "Global Styles" -> "Global override", click the "background color"
++ Click "more colors", and use: "red: 43, blue: 43, green: 43" (which is 0x2B2B2B)
++ Check the "Enable global background color" option.
+
 ## Import the languages
 
 + Open your Notepad++, and select "Language" on the menu bar, and choose "Define your language".
@@ -40,7 +46,7 @@ Notice: I'm trying my best to fit IntelliJ IDEA Dracula theme.
 + [X] Rust
 > [.rs](./languages/rs.xml)
 
-+ [X] Liec
++ [X] Lice
 > [.lice](./languages/lice.xml)
 
 + [X] Gradle
