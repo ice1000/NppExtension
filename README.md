@@ -3,29 +3,32 @@
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 Some languages' highlight config in Notepad++.<br/>
-Use them in your Notepad++ ! :smile: <br/>
-Actually some of them are just some scripting files in some specific softwares, like devcpp, emacs, IntelliJ, etc.<br/>
-But also some great languages like kotlin, and DSLs like gradle, markdown, etc.<br/>
-Hope this will help you. :smile:
+
+![](./art/03.png)
+
+Hope this tool will help you. :smile:
 
 Contribution is always welcomed.<br/>
 Just find what you want in the corresponding named files.
 
-Actually while wrriting this file, I am using the `markdown`  language support, it is like this:<br/>
-![](./art/01.PNG)
-![](./art/02.PNG)
-
 # How to use
-Open your Notepad++, and select "Language" on the menu bar, and choose "Define your language".<br/>
-Press the "Import" button, and select the configuration xml file in this project.<br/>
-For instance, if you want to use markdown support, choose [md.xml](./DSLs/md.xml).<br/>
-And restart Notepad++, then enjoy the special highlighting! :smile:
 
-# I support
+## Set a dark theme
 
-### Languages
+First you should set your background dark.<br/>
+You can either [see this issue](https://github.com/ice1000/NppExtension/issues/2#issuecomment-326457997),
+or follow the steps:
 
-Notice: Highlighting of these languages are just like what they are in IntelliJ IDEA.
+## Import the languages
+
++ Open your Notepad++, and select "Language" on the menu bar, and choose "Define your language".
++ Press the "Import" button, and select the configuration xml file in this project.
+(For instance, if you want to use markdown support, choose [md.xml](./DSLs/md.xml))
++ And restart Notepad++, then enjoy the beautiful highlighting! :smile:
+
+# Languages supported
+
+Notice: I'm trying my best to fit IntelliJ IDEA Dracula theme.
 
 + [X] Kotlin
 > [.kt](./languages/kt.xml)
@@ -36,7 +39,8 @@ Notice: Highlighting of these languages are just like what they are in IntelliJ 
 + [X] Rust
 > [.rs](./languages/rs.xml)
 
-### DSLs
++ [X] Liec
+> [.lice](./languages/lice.xml)
 
 + [X] Gradle
 > [.gradle](./DSLs/gradle.xml)
@@ -50,22 +54,5 @@ Notice: Highlighting of these languages are just like what they are in IntelliJ 
 + [X] Solution
 > [.sln](./DSLs/sln.xml)
 
-+ [X] Git
-> [.gitignore](./DSLs/gitignore.xml)
-
 + [X] My own backend DSL
 > [.txt](./DSLs/txt.xml)
-
-### Scripting files for :
-
-+ [X] Emacs
-> [.info](./scripting/emacs/info.xml)
-
-+ [X] Dev C++
-> [.lng](./scripting/devcpp/lng.xml) <br/>
-[.tips](./scripting/devcpp/tips.xml) <br/>
-[.map](./scripting/devcpp/map.xml)
-
-+ [X] IntelliJ IDEA
-> [.number](./scripting/intellij/number.xml) <br/>
-[.policy](./scripting/intellij/policy.xml)
