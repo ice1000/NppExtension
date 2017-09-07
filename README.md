@@ -1,4 +1,4 @@
-# Notepad++-syntax
+[1;5B# Notepad++-syntax
 
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 [![](https://img.shields.io/badge/Notepad%2B%2B-Syntax%20highlight-ff68b4.svg)](https://notepad-plus-plus.org/)
@@ -39,15 +39,17 @@ Notice: I'm trying my best to fit IntelliJ IDEA Dracula theme.
 
 ## Probably useful
 
-+ [X] [Kotlin.kt](./languages/kt.xml)
-+ [X] [Scala.scala](./languages/scala.xml)
-+ [X] [Rust.rs](./languages/rs.xml)
-+ [X] [Markdown.md](./DSLs/md.xml)
-+ [X] [Lice.lice](./languages/lice.xml)
-+ [X] [Gradle.gradle](./DSLs/gradle.xml)
++ [Kotlin.kt](./languages/kt.xml)
++ [Scala.scala](./languages/scala.xml)
++ [Rust.rs](./languages/rs.xml)
++ [Markdown.md](./DSLs/md.xml)
++ [Lice.lice](./languages/lice.xml)
++ [Gradle.gradle](./DSLs/gradle.xml)
++ [Cm.cm](./languages/cm.xml)
++ [Zig.zig](./languages/zig.xml)
 
 ## Probably useless
 
-+ [X] [Makefile.make](./DSLs/make.xml)
-+ [X] [Solution.sln](./DSLs/sln.xml)
-+ [X] [My own backend DSL.txt](./DSLs/txt.xml)
++ [Makefile.make](./DSLs/make.xml)
++ [Solution.sln](./DSLs/sln.xml)
++ [My own backend DSL.txt](./DSLs/txt.xml)
