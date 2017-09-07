@@ -1,4 +1,4 @@
-[1;5B# Notepad++-syntax
+# Notepad++ extension
 
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 [![](https://img.shields.io/badge/Notepad%2B%2B-Syntax%20highlight-ff68b4.svg)](https://notepad-plus-plus.org/)
