@@ -35,18 +35,24 @@ or follow the steps:
 
 # Languages supported
 
-Notice: I'm trying my best to fit IntelliJ IDEA Dracula theme.
+Notice: for the dark version, I'm trying my best to fit IntelliJ IDEA Dracula theme.
+Light versions are just a find-and-replace of the dark ones.
 
 ## Probably useful
 
 + [Kotlin.kt](./languages/kt.xml)
 + [Scala.scala](./languages/scala.xml)
-+ [Rust.rs](./languages/rs.xml)
 + [Markdown.md](./DSLs/md.xml)
 + [Lice.lice](./languages/lice.xml)
 + [Gradle.gradle](./DSLs/gradle.xml)
 + [Cm.cm](./languages/cm.xml)
 + [Zig.zig](./languages/zig.xml)
+
+## Deprecated
+
++ [Rust.rs](./languages/rs.xml)
+
+官方逼死同人系列
 
 ## Probably useless
 
