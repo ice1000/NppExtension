@@ -14,9 +14,17 @@ Just find what you want in the corresponding named files.
 
 # How to use
 
-## Set a dark theme
+## Import the languages
 
-First you should set your background dark.<br/>
++ Open your Notepad++, and select "Language" on the menu bar, and choose "Define your language".
++ Press the "Import" button, and select the configuration xml file in this project.
+  + Please select the xml files ending with `-light.xml`, others are for dark theme only
+    + If there isn't a light version of some languages, open an issue please
+  + For instance, if you want to use Kotlin support, choose [kt-light.xml](./languages/kt-light.xml)
++ And restart Notepad++, then enjoy the beautiful highlighting! :smile:
+
+## (Optional) Use dark theme
+
 You can either [see this issue](https://github.com/ice1000/NppExtension/issues/2#issuecomment-326457997),
 or follow the steps:
 
@@ -25,13 +33,6 @@ or follow the steps:
 + Go to "Global Styles" -> "Global override", click the "background color"
 + Click "more colors", and use: "red: 43, blue: 43, green: 43" (which is 0x2B2B2B)
 + Check the "Enable global background color" option.
-
-## Import the languages
-
-+ Open your Notepad++, and select "Language" on the menu bar, and choose "Define your language".
-+ Press the "Import" button, and select the configuration xml file in this project.
-(For instance, if you want to use markdown support, choose [md.xml](./DSLs/md.xml))
-+ And restart Notepad++, then enjoy the beautiful highlighting! :smile:
 
 # Languages supported
 
